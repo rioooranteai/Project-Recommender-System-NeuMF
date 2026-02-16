@@ -1,4 +1,4 @@
-# Laporan Proyek Machine Learning - Mario Valerian Rante Ta'dung
+# Laporan Proyek Machine Learning
 
 ## Project Overview
 
